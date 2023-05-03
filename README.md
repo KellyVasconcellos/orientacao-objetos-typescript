@@ -8,7 +8,7 @@
 
 ## 🔖&nbsp; Sobre
 
-**Conta Bancária** é um exercício de orientação a objetos onde foi realizado a validação do método sacar, depositar, validação de agência e conta. Os testes unitários foram feitos no Jest, foi utiizado a biblioteca Fakes para gerar contatos aleatórios e o pacote do Node para validação de e-mail.
+**Conta Bancária** é um exercício de orientação a objetos onde foi realizado a validação do método sacar, depositar, validação de agência e conta. Os testes unitários foram feitos no Jest, foi utiizado a biblioteca Faker para gerar contatos aleatórios e o pacote do Node para validação de e-mail.
 
 ---
 
